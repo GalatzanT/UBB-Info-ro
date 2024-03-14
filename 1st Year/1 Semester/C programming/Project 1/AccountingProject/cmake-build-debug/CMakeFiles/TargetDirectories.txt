@@ -1,0 +1,3 @@
+C:/Users/tudor/CLionProjects/AccountingProject/cmake-build-debug/CMakeFiles/AccountingProject.dir
+C:/Users/tudor/CLionProjects/AccountingProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tudor/CLionProjects/AccountingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
