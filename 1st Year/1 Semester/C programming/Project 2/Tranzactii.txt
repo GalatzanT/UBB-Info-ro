@@ -1,0 +1,14 @@
+10000 1 banca_transilvania venit 4000000.00
+10000 1 Revolut venit 500.00
+10000 2 Pensie venit 1750.00
+10000 2 factura venit 250.00
+10000 2 factura venit 30.00
+10000 2 factura venit 2032.00
+10000 2 transfer cheltuiala 30.00
+10000 2 transfer cheltuiala 300.00
+2 0 transfer venit 300.00
+10000 2 transfer cheltuiala 400.00
+2 0 transfer venit 400.00
+10000 2 factura venit 10000.00
+10000 2 transfer  cheltuiala 15.00
+2 0 transfer venit 15.00
