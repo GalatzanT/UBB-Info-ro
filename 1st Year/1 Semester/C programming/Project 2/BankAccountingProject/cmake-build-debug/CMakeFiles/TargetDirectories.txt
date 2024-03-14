@@ -1,3 +1,0 @@
-C:/Users/tudor/CLionProjects/BankAccountingProject/cmake-build-debug/CMakeFiles/BankAccountingProject.dir
-C:/Users/tudor/CLionProjects/BankAccountingProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tudor/CLionProjects/BankAccountingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
